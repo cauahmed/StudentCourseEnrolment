@@ -1,0 +1,6 @@
+﻿  bst.c
+E:\Apps\StudentCourseEnrolment\bst.c(24,20): warning C4133: 'function': incompatible types - from 'bstNode *' to 'AVLNodePtr'
+E:\Apps\StudentCourseEnrolment\bst.c(26,20): warning C4133: 'function': incompatible types - from 'bstNode *' to 'AVLNodePtr'
+E:\Apps\StudentCourseEnrolment\bst.c(36,23): warning C4133: 'function': incompatible types - from 'bstNode *' to 'BST *'
+E:\Apps\StudentCourseEnrolment\bst.c(37,23): warning C4133: 'function': incompatible types - from 'bstNode *' to 'BST *'
+  StudentCourseEnrolment.vcxproj -> E:\Apps\StudentCourseEnrolment\x64\Debug\StudentCourseEnrolment.exe
